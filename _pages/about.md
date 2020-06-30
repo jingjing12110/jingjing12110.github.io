@@ -25,5 +25,5 @@ I am a Ph.D. candidate in the [Institute of Artificial Intelligence and Robotics
     Xi'an Jiaotong University, China (2013 - 2017)
 
 
-<h2 id="publication">Publication</h2> 
+<!-- <h2 id="publication">Publication</h2>  -->
 <!-- * **Zheng Gao**, Hongsong Li, Zhuoren Jiang, Xiaozhong Liu. Detecting User Community in Sparse Domain via Cross-Graph Pairwise Learning. *ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)*, 2020. [[PDF]](/files/SIGIR_2020_Cross_Graph.pdf) -->

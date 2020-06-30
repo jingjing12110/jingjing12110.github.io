@@ -12,5 +12,5 @@ main:
   - title: "Blog"
     url: /blog
 
-  - title: "CV"
-    url: /files/cv.pdf 
+  # - title: "CV"
+    # url: /files/cv.pdf 

@@ -4,10 +4,10 @@ main:
   - title: "Biography"
     url: /#biography
 
-  # - title: "Publication"
-  #   url: /#publication
   - title: "Publication"
-    url: /publications/  
+    url: /#publications
+  # - title: "Publication"
+    # url: /publications/  
 
   - title: "Blog"
     url: /blog

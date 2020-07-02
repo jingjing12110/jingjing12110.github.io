@@ -5,7 +5,7 @@ main:
     url: /#biography
 
   - title: "Publication"
-    url: /#publications
+    url: /publication
   # - title: "Publication"
     # url: /publications/  
 

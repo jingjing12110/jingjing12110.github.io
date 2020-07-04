@@ -11,8 +11,8 @@ title                    : "Jingjing Jiang"
 title_separator          : "-"
 name                     : &name "Jingjing Jiang"
 description              : &description "Ph.D. candidate "
-url                      : http://127.0.0.1:4000/
-# url                      : https://jingjing12110.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# url                      : http://127.0.0.1:4000/
+url                      : https://jingjing12110.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jingjing12110.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

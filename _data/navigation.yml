@@ -7,8 +7,10 @@ main:
   - title: "Publication"
     url: /publications
 
+  # - title: "Blog"
+  #   url: /blog
   - title: "Blog"
-    url: /blog
+    url: /year-archive/
 
   # - title: "CV"
     # url: /files/cv.pdf 

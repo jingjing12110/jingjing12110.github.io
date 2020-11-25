@@ -10,9 +10,9 @@ locale                   : "en-US"
 title                    : "Jingjing Jiang"
 title_separator          : "-"
 name                     : &name "Jingjing Jiang"
-description              : &description "Ph.D. candidate "
+description              : &description "Ph.D. student@XJTU"
 # url                      : http://127.0.0.1:4000/
-url                      : https://jingjing12110.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jingjing12110.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jingjing12110.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,10 +83,10 @@ analytics:
 author:
   name             : "Jingjing Jiang"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate in IAIR, Xi'an Jiaotong University"
+  bio              : "Ph.D. student@XJTU"
   location         : "Xi'an, China"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=p9T7ieAAAAAJ&hl=zh-CN"
+  # googlescholar    : "https://scholar.google.com/citations?user=p9T7ieAAAAAJ&hl=zh-CN"
   email            : "jingjingjiang2017@gmail.com"
   uri              :
   bitbucket        :
@@ -312,3 +312,4 @@ compress_html:
 github: [metadata]
 
 theme: jekyll-theme-minimal
+

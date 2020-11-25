@@ -1,0 +1,6 @@
+{
+    "latex-workshop.view.pdf.external.viewer.command": "/home/kaka/Software/foxitsoftware/foxitreader/FoxitReader.desktop",
+    "latex-workshop.view.pdf.external.viewer.args": [
+        "%PDF%"
+    ]
+}

@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a second-year Ph.D. student at [IAIR](http://www.aiar.xjtu.edu.cn/) of Xi'an Jiaotong University, advised by [Prof.Nanning Zheng](http://www.aiar.xjtu.edu.cn/info/1046/1229.htm). My current research interests are in Vision-and-Language, especially in Visual Question Answering, and Visual Reasoning. Here is my [CV](../files/cv.pdf). 
+I am a second-year Ph.D. student at [IAIR](http://www.aiar.xjtu.edu.cn/) of Xi'an Jiaotong University, advised by [Prof.Nanning Zheng](http://www.aiar.xjtu.edu.cn/info/1046/1229.htm). My current research interests are in Vision-and-Language, especially in Visual Question Answering, and Visual Reasoning. Here is my [resume](../files/resume.pdf). 
 
 
 <h2 id="education"> Education</h2>  

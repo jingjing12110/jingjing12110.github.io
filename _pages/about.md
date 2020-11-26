@@ -31,7 +31,7 @@ I am a second-year Ph.D. student at [IAIR](http://www.aiar.xjtu.edu.cn/) of Xi'a
 - **LiDAR-Camera Calibration**, [[Paper](/files/Calibration.pdf)], [[Demo](/files/calibration.gif)], [[Code](https://github.com/jingjing12110/LiDAR-Camera_calibration)]<br>
   <font size="3">proposed a line feature based LiDAR-Camera calibration and online rectification algorithm and used it for our autonomous driving platform.<br></font>
 - **Drivable Area Detection**, [[Demo](/files/DA.mp4)], [[Code](/files/ODT-src.tar.gz)]<br>
-  <font size="3">proposed an unsupervised approach for detecting drivable area using image and point cloud data and realized the cross-platform transplantation of the algorithm.<br></font>
+  <font size="3">completed an unsupervised approach for detecting drivable area with image and point cloud data and realized the cross-platform transplantation of the algorithm.<br></font>
 - **LiDAR-based Object Detection & Tracking**, [[Demo](/files/ODT.mp4)], [[Code](https://github.com/jingjing12110/object_detection_tracking)]<br>
   <font size="3">proposed an object detection and tracking model based on multi-level enhancement of point cloud to alleviate the sparsity of point cloud and used it for our autonomous driving platform.<br></font>
 

@@ -21,12 +21,12 @@ I am a second-year Ph.D. student at [IAIR](http://www.aiar.xjtu.edu.cn/) of Xi'a
     Xi'an Jiaotong University, China (2013 - 2017)</font>
 
 
-<h2 id="publications"> Publication</h2>
+<h2 id="publication"> Publication</h2>
 
 - **<font size="3">Jingjing Jiang</font>**<font size="3">, Zhixiong Nan, Hui Chen, and Nanning Zheng. Predicting short-term next-active-object through visual attention and hand position.</font> _<font size="3">Neurocomputing</font>_. <font size="3">(Accepted)</font><br>
 - **<font size="3">Jingjing Jiang</font>**<font size="3">, Peixin Xue, Shitao Chen, Ziyi Liu, Xuetao Zhang, and Nanning Zheng. Line feature based extrinsic calibration of LiDAR and camera. In</font> _<font size="3">ICVES</font>_<font size="3">, 2018.<br></font>
 
-<h2 id="projects"> Project</h2>
+<h2 id="project"> Project</h2>
 
 - **LiDAR-Camera Calibration**, [[Paper](/files/Calibration.pdf)], [[Demo](/files/calibration.gif)], [[Code](https://github.com/jingjing12110/LiDAR-Camera_calibration)]<br>
   <font size="3">proposed a line feature based LiDAR-Camera calibration and online rectification algorithm and used it for our autonomous driving platform.<br></font>
